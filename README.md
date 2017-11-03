@@ -1,2 +1,3 @@
 # Word-Sense-Disambiguation-
-Word Sense Disambiguation with a Simplified Lesk WordNet lookup
+
+* The [Simplified Lesk algorithm](http://en.wikipedia.org/wiki/Lesk_algorithm) using WordNet as the lookup source.
