@@ -2,10 +2,10 @@
 
 * The [Simplified Lesk algorithm](http://en.wikipedia.org/wiki/Lesk_algorithm) using WordNet as the lookup source.
 
-lesk.py is the main program we need to compile and execute;
-ReadMe.txt is a description of this program and instructions to compile and execute this program.  
-report.docx includes three test cases: two positive cases that the program outputs the correct sense of the input word in the input sentence and one negative case that the program fails to output the correct sense of the input word in the input sentence
-stop_words.txt includes stop words list
+1. lesk.py is the main program we need to compile and execute;
+2. ReadMe.txt is a description of this program and instructions to compile and execute this program.  
+3. report.docx includes three test cases: two positive cases that the program outputs the correct sense of the input word in the input sentence and one negative case that the program fails to output the correct sense of the input word in the input sentence
+4. stop_words.txt includes stop words list
 
 To compile and execute the program, you will need python 3.6 and NLTK. Instructions are followed.
 First, download and unzip zipped program file into your home directory. 
